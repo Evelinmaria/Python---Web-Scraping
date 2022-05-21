@@ -21,7 +21,7 @@ Once the HTML or XML has been accessed, scraped, and parsed, the web scraper wil
 2. Extract information from the above mentioned url.
 3. Extracted data saved in csv format.
 4. Tools used: requests, BeautifulSoap, Pandas, OS
-### Refrences
+### References
 1. https://github.com/NeilMankodi/web-scraping-github.git
 2. https://medium.com/@abhishekdundagi06/building-web-scraper-using-python-scraping-github-topics-in-one-go-b553a0bf58d
 3. https://careerfoundry.com/en/blog/data-analytics/web-scraping-guide/
