@@ -16,3 +16,8 @@ Once the HTML or XML has been accessed, scraped, and parsed, the web scraper wil
 4. Write the necessary code
 5. Execute the code
 6. Store the extracted data
+### Problem Statement
+1. Scrape the website "https://github.com/topics"
+2. Extract information from the above mentioned url.
+3. Extracted data saved in csv format.
+4. Tools used: requests, BeautifulSoap, Pandas, OS
